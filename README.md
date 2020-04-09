@@ -8,3 +8,5 @@ Learning Javascript from the course by https://github.com/wesbos/beginner-javasc
 ### Motivation :rocket:
 ------------------
 I want to learn the new skills that will give me the ability to come up with solutions without having to rely on an external developer.
+
+I haven't worked on it for 3 months and I have forgotten everything including Git!!
